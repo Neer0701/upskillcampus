@@ -97,6 +97,3 @@ The application uses a single table, `urls`:
 - User accounts to manage personal links
 - Migration to a more scalable database (e.g. PostgreSQL) for production use
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
